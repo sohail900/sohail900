@@ -1,14 +1,14 @@
-<p align="center">
-  <a  target="_blank" rel="noreferrer"><img src="https://private-user-images.githubusercontent.com/124098178/292758842-961bae00-b988-4829-93f9-6a9eac17abd2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1MTA1OTgsIm5iZiI6MTcwMzUxMDI5OCwicGF0aCI6Ii8xMjQwOTgxNzgvMjkyNzU4ODQyLTk2MWJhZTAwLWI5ODgtNDgyOS05M2Y5LTZhOWVhYzE3YWJkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyNVQxMzE4MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmQ5ZDhjNjJkZWYwODVhMzk2NmY1MzZmNzg1Zjc5NjYyNTdiMmI2OTRkN2NhNjZlNDM0YzcyODZjNzcyY2NkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.H6AYCgXLbahlu5BwTE8F05hL1dqSl-cCndidl55HBeM" alt="my banner"></a>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR3am91bHU5Z2IwYjNhdzd1YTJ3ejQzbWQwNWlydnFscTRlejF1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vLlpbDafjgHystuJ0a/giphy.gif" width="300"/>
+</div>
 
 <h1 align="center">
 Hi there, I'm <a  target="_blank" rel="noreferrer">Muhammad Sohail</a> 👋
 </h1> 
 
-<h2 align="center">
-a Full-Stack Web Developer 💻
-</h2> 
+<div align="center" display="flex">
+<h2>a Full-Stack Web Developer</h2> <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="150" />
+</div> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
