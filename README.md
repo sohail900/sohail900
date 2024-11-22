@@ -23,12 +23,10 @@ As a full-stack web developer, I’m dedicated to building seamless, user-focuse
 
 ### 🛠 &nbsp;Languages and Tools :
 
-   <img src="https://skillicons.dev/icons?i=react,next,bun,express,mongodb,typescript,javascript,firebase,tailwindcss,scss,vercel,git" />
+   <img src="https://skillicons.dev/icons?i=nodejs,react,next,bun,express,mongodb,typescript,javascript,firebase,tailwindcss,scss,vercel,git" />
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohail900&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohail900&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail900&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
