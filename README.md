@@ -16,7 +16,7 @@ As a full-stack web developer, I’m dedicated to building seamless, user-focuse
 
 <a href="https://www.linkedin.com/in/sohailwebdev011/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="sohail | LinkedIn" width="30px"/></a>
 <a href="https://www.instagram.com/sohail_404/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sohail | Instagram" width="30px"/></a>
-<a href="https://www.x.com/baltione1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/x.svg" alt="Sohail | x" width="30px"/></a>
+<a href="https://www.x.com/baltione1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Sohail | x" width="30px"/></a>
 </br>
 </br>
 - <code>💬 If you have any question/feedback, please do not hesitate to reach out to me!</code>
