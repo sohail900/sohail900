@@ -27,6 +27,7 @@ As a full-stack web developer, I’m dedicated to building seamless, user-focuse
 
 
 ### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohail900&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohail900&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
